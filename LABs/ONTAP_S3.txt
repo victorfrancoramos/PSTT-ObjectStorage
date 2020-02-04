@@ -1,5 +1,4 @@
-PSTT OS DEMO_ONTAP S3 as target for FabricPool
-==============================================
+## PSTT OS DEMO_ONTAP S3 as target for FabricPool
 
 CLUSTER2
 
